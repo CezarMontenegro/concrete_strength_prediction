@@ -1,1 +1,3 @@
-# concrete_strength_prediction
+# Concrete Strength Pediction
+---
+## Sobre o projeto
